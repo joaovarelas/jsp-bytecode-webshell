@@ -16,4 +16,9 @@ Dynamic JSP webshell that receives Java class bytecode, loads and execute it, re
 
 
 
+## References 
+
+- https://github.com/fa1c0n1/MyJSPWebshell
+
+
 - Only for educational and ethical use-cases. 
